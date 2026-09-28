@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Material 3](https://img.shields.io/badge/Material--3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)](https://m3.material.io/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
 
 A clean, modern, zero-cloud **Task and Productivity Tracker app** built with Flutter, Dart 3, and Material Design 3. All your data stays locally on your device with zero setup overhead and instant persistence.
 
@@ -150,6 +150,3 @@ If you encounter this command error in PowerShell/Terminal:
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
